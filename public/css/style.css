@@ -251,13 +251,6 @@ p {
   border-image-source: url('/img/img-400x200.jpg');
   box-sizing: border-box;
   border-image-width: 40px;
-  border-image-slice: fill;
-}
-
-.task34 {
-  border-image-source: url('/img/img-400x200.jpg');
-  box-sizing: border-box;
-  border-image-width: 40px;
   border-image-slice: 10;
   border-image-repeat: stretch;
 }
